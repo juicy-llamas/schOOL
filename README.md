@@ -1,2 +1,2 @@
 # schOOL
-schOOL
+SCHOOL
